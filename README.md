@@ -1,7 +1,5 @@
-sublime-settings
+[/dev/alias's](http://devalias.net) [Sublime Text 2](http://www.sublimetext.com/2) Settings
 ================
-
-# [/dev/alias's](http://devalias.net) [Sublime Text 2](http://www.sublimetext.com/2) Settings
 
 ## Features
 
