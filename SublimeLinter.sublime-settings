@@ -33,5 +33,5 @@
     "sublimelinter_notes": false,
 
   // The set of annotation phrases to highlight
-  "annotations": ["TODO", "README", "FIXME"]
+  "annotations": ["TODO", "README", "FIXME", "HACK"]
 }
