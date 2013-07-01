@@ -15,6 +15,10 @@
 
 ## Installation
 
+* Install [Sublime Text 2](www.sublimetext.com/2)
+* Install [Sublime Package Control]([http://wbond.net/sublime_packages/package_control)
+* Proceed with cloning this repo as follows..
+
 ### OSX/Linux
 
 - OSX: `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User`
@@ -42,4 +46,4 @@ git checkout windows
 
 ## Suggestion
 
-Instead of doing the above, you'll probably want to fork the repository and use your fork instead of mine. That'll allow you to push your changes back.
+* Instead of doing the above, you'll probably want to fork the repository and use your fork instead of mine. That'll allow you to push your changes back.
