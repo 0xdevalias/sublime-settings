@@ -30,6 +30,7 @@ git pull origin master  --force
 
 - XP: `cd 'Application Data/Sublime Text 2/Packages/User'`
 - 7+: `cd 'AppData/Roaming/Sublime Text 2/Packages/User'`
+- Portable: `cd 'SublimeText2/Data/Packages/User'`
 
 ``` bash
 rm *.sublime-settings
