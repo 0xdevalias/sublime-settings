@@ -1,13 +1,25 @@
 {
+	// Sets the colors used within the text area
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	// Word list to use for spell checking
 	"dictionary": "Packages/Language - English/en_GB.dic",
-	"ensure_newline_at_eof_on_save": false,
-	"font_size": 12.0,
+	// Set to true to ensure the last line of the file ends in a newline
+  // character when saving
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 11.0,
+	// List any packages to ignore here. When removing entries from this list,
+  // a restart may be required if the package contains plugins.
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": false
+	// Set to true to removing trailing white space on save
+	"trim_trailing_white_space_on_save": true,
+	// Set to true to automatically save files when switching to a different file
+  // or application
+  "save_on_focus_lost": false,
+  // Makes tabs with modified files more visible
+  "highlight_modified_tabs": true
 }
