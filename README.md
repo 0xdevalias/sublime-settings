@@ -5,10 +5,11 @@
 
 - Packages
   - [Alignment](https://github.com/wbond/sublime_alignment) for easy aligning of variables
-	- [Gist](https://github.com/condemil/Gist) for [Gist](https://gist.github.com/) support
-	- [GitGutter](https://github.com/jisaacks/GitGutter#readme) for inline git visuals
-	- [MarkdownEditing](https://github.com/balupton/MarkdownEditing) for awesome visual markdown editing (like byword and iawriter)
-	- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) for inline linting
+  - [Gist](https://github.com/condemil/Gist) for [Gist](https://gist.github.com/) support
+  - [GitGutter](https://github.com/jisaacks/GitGutter#readme) for inline git visuals
+  - [MarkdownEditing](https://github.com/balupton/MarkdownEditing) for awesome visual markdown editing (like byword and iawriter)
+  - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) for inline linting
+  - [Emmet](https://github.com/sergeche/emmet-sublime) (aka Zen Coding) the essential toolkit for web-developers
   - TODO: Add the rest here
 	- My keymaps, snippets and preferences
 
