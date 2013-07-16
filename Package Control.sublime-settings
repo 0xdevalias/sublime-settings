@@ -1,6 +1,6 @@
 {
   // Ref: http://wbond.net/sublime_packages/package_control/settings
-  
+
   // An HTTP proxy server to use for requests
-  "http_proxy": "haproxy:8080"
+  // "http_proxy": "haproxy:8080"
 }
